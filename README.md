@@ -1,2 +1,2 @@
-various language things
-for now, French transcripts
+Various language things. <br>
+For now, French transcripts
